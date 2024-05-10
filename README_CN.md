@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
+  <a href="./README_CN.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
+</p>
+
 # ChatPaper.ai - 你的人工智能学术研究伙伴
 
 ## 体验前所未有的学术研究方式 - 完全免费!
